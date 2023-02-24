@@ -1,0 +1,348 @@
+/* ===============large devices part start ===============*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* ===============large devices part end ===============*/
+
+
+/*medium devices part start=========================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+}
+/*medium devices part start=========================*/
+
+/*small devices part start=========================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.common_title {
+        text-align: center;
+        letter-spacing: 0px;
+    }
+    .common_heading {
+        font-size: 25px;
+        padding: 15px 0;
+    }
+
+    /* header_part_start=========================== */
+    #menubar {
+        padding: 0;
+    }
+	#menubar .res_btn{
+		color: #F96E11;
+		font-size: 27px;
+	}
+	#menubar .navbar-toggler:focus {
+		box-shadow: none;
+	}
+	#menubar .navbar-brand {
+        font-size: 20px;
+        width: 200px;
+    }
+    #menubar .navbar-toggler-icon {
+        background-image: none;
+    }
+    #menubar .navbar-toggler {
+        border: none;
+    }
+    .sticky .navbar-brand img {
+        width: 31% !important;
+    }
+    #menubar a img {
+        width: 31%;
+    }
+    /* header_part_end=========================== */
+
+    /* menubar_part_start=========================== */
+    #menubar .navbar-nav {
+        background: #44425A;
+    }
+    #menubar ul li a {
+        text-align: center;
+    }
+    /* menubar_part_start=========================== */
+
+    /* banner_part_start=========================== */
+    #banner_part {
+        padding: 110px 0;
+    }
+    #banner_part .banner_dsc h3 {
+        font-size: 23px;
+        text-align: center;
+    }
+    #banner_part .banner_dsc h1 {
+        font-size: 36px;
+        line-height: 44px;
+        padding-bottom: 22px;
+    }
+    /* banner_part_end=========================== */
+
+    /* about_part_start================== */
+    #about_part {
+        padding: 50px 0;
+    }
+    #about_part .about_dsc p {
+        line-height: 23px;
+    }
+    #about_part .about_btn {
+        text-align: center;
+    }
+    /* about_part_end================== */
+
+    /* subject_part================== */
+    #subject_part {
+        padding: 50px 0;
+    }
+    /* subject_part================== */
+
+    /* course_part========================== */
+    #course_part .item {
+        margin-bottom: 10px;
+    }
+    #course_part .item .item_sub .course_heading h3 {
+        font-size: 20px;
+        padding: 20px 0;
+    }
+    /* course_part========================== */
+
+    /* signup_part====================== */
+    #singup_part .item h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    #singup_part .item h2 {
+        font-size: 35px;
+    }
+    #singup_part .item p {
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0;
+    }
+    #singup_part .form_part h2 {
+        font-size: 25px;
+        padding: 15px 30px;
+    }
+    #singup_part .form_part .main_form .form_signup_btn {
+        padding: 7px;
+    }
+    /* signup_part====================== */
+
+    /* teacher_part===================== */
+    #teacher_part {
+        padding: 50px 0;
+    }
+    #teacher_part .item {
+        margin-bottom: 20px;
+    }
+    /* teacher_part===================== */
+
+    /* footer_part=================== */
+    #footer_part {
+        /* padding: 50px 0; */
+        padding-top: 20px;
+        padding-bottom: 100px;
+    }
+    #footer_part .item h3 {
+        font-size: 20px;
+        padding-bottom: 15px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    #footer_part .item .footer_link {
+        text-align: center;
+    }
+    #footer_part .item p {
+        text-align: center;
+    }
+    #footer_part .item .form_field {
+        border-radius: 8px;
+        width: 100%;
+    }
+    #footer_part .item .form_btn {
+        border-radius: 8px;
+        top: 76px;
+        left: 0;
+        width: 100%;
+    }
+    #footer_bottom .footer_bottom_title p {
+        font-size: 15px;
+    }
+    /* footer_part=================== */
+
+    .scroll_top {
+        bottom: 20px;
+        right: 10px;
+    }
+    .scroll_top a {
+        font-size: 20px;
+        padding: 6px 6px;
+    }
+}
+/*=======================small diveces end=================*/
+
+
+/*=====================extra small part start=======================*/
+@media (max-width: 575.98px) {
+    .common_title {
+        text-align: center;
+        letter-spacing: 0px;
+    }
+    .common_heading {
+        font-size: 25px;
+        padding: 15px 0;
+    }
+
+    /* header_part_start=========================== */
+    #menubar {
+        padding: 0;
+    }
+	#menubar .res_btn{
+		color: #F96E11;
+		font-size: 27px;
+	}
+	#menubar .navbar-toggler:focus {
+		box-shadow: none;
+	}
+	#menubar .navbar-brand {
+        font-size: 20px;
+        width: 200px;
+    }
+    #menubar .navbar-toggler-icon {
+        background-image: none;
+    }
+    #menubar .navbar-toggler {
+        border: none;
+    }
+    .sticky .navbar-brand img {
+        width: 31% !important;
+    }
+    #menubar a img {
+        width: 31%;
+    }
+    /* header_part_end=========================== */
+
+    /* menubar_part_start=========================== */
+    #menubar .navbar-nav {
+        background: #44425A;
+    }
+    #menubar ul li a {
+        text-align: center;
+    }
+    /* menubar_part_start=========================== */
+
+    /* banner_part_start=========================== */
+    #banner_part {
+        padding: 110px 0;
+    }
+    #banner_part .banner_dsc h3 {
+        font-size: 23px;
+        text-align: center;
+    }
+    #banner_part .banner_dsc h1 {
+        font-size: 36px;
+        line-height: 44px;
+        padding-bottom: 22px;
+    }
+    /* banner_part_end=========================== */
+
+    /* about_part_start================== */
+    #about_part {
+        padding: 50px 0;
+    }
+    #about_part .about_dsc p {
+        line-height: 23px;
+    }
+    #about_part .about_btn {
+        text-align: center;
+    }
+    /* about_part_end================== */
+
+    /* subject_part================== */
+    #subject_part {
+        padding: 50px 0;
+    }
+    /* subject_part================== */
+
+    /* course_part========================== */
+    #course_part .item {
+        margin-bottom: 10px;
+    }
+    #course_part .item .item_sub .course_heading h3 {
+        font-size: 20px;
+        padding: 20px 0;
+    }
+    /* course_part========================== */
+
+    /* signup_part====================== */
+    #singup_part .item h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    #singup_part .item h2 {
+        font-size: 35px;
+    }
+    #singup_part .item p {
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0;
+    }
+    #singup_part .form_part h2 {
+        font-size: 25px;
+        padding: 15px 30px;
+    }
+    #singup_part .form_part .main_form .form_signup_btn {
+        padding: 7px;
+    }
+    /* signup_part====================== */
+
+    /* teacher_part===================== */
+    #teacher_part {
+        padding: 50px 0;
+    }
+    #teacher_part .item {
+        margin-bottom: 20px;
+    }
+    /* teacher_part===================== */
+
+    /* footer_part=================== */
+    #footer_part {
+        /* padding: 50px 0; */
+        padding-top: 20px;
+        padding-bottom: 100px;
+    }
+    #footer_part .item h3 {
+        font-size: 20px;
+        padding-bottom: 15px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    #footer_part .item .footer_link {
+        text-align: center;
+    }
+    #footer_part .item p {
+        text-align: center;
+    }
+    #footer_part .item .form_field {
+        border-radius: 8px;
+        width: 100%;
+    }
+    #footer_part .item .form_btn {
+        border-radius: 8px;
+        top: 76px;
+        left: 0;
+        width: 100%;
+    }
+    #footer_bottom .footer_bottom_title p {
+        font-size: 15px;
+    }
+    /* footer_part=================== */
+
+    .scroll_top {
+        bottom: 20px;
+        right: 10px;
+    }
+    .scroll_top a {
+        font-size: 20px;
+        padding: 6px 6px;
+    }
+}
+/*====================extra small part start=============*/
